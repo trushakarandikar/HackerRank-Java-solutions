@@ -11,9 +11,7 @@ public class Solution
         double d = scanner.nextDouble();
         scanner.nextLine();
         String s = scanner.nextLine();
-
-        // Write your code here.
-
+     
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);
